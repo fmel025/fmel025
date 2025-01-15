@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Fernando Melendez and I'm a passionate backend dev 🤖
 
+![fmel025'stats](https://github-readme-stats.vercel.app/api?username=fmel025&show_icons=true&theme=tokyonight)
 <!--
 **fmel025/fmel025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
