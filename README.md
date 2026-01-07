@@ -16,7 +16,14 @@
 ![](https://github-profile-trophy.vercel.app/?username=fmel025&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # ⚡️ Where to find me
-<p><a target="_blank" href="https://www.linkedin.com/in/fmel025" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/fmel025" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
+  </a>
+  <a target="_blank" href="mailto:j01melendez255@gmail.com" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
